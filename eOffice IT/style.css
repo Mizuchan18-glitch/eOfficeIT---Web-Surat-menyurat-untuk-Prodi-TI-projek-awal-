@@ -1,0 +1,44 @@
+/* Custom Styles untuk Dashboard */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.card {
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    border-radius: 10px 10px 0 0 !important;
+    font-weight: 600;
+}
+
+.table {
+    font-size: 14px;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #f1f1f1;
+}
+
+.badge {
+    padding: 8px 12px;
+    font-size: 12px;
+}
+
+.navbar {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.btn {
+    border-radius: 5px;
+}
+
+.modal-content {
+    border-radius: 10px;
+}
+
+.alert {
+    border-radius: 10px;
+}
