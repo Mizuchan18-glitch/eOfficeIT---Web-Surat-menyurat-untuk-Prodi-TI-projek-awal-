@@ -1,8 +1,8 @@
 <?php
-$host = "sql300.infinityfree.com";
-$user = "if0_40956669";
-$pass = "Annejaa18";
-$db   = "if0_40956669_prodi_surat";
+$host = "";
+$user = "";
+$pass = "";
+$db   = "";
 
 $koneksi = mysqli_connect($host, $user, $pass, $db);
 
